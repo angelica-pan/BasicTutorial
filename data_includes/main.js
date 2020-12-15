@@ -1,2 +1,1 @@
-// This is the BasicTutorial experiment.
-// Type code below this line.
+// Type code below this line
